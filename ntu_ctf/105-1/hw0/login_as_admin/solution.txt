@@ -1,0 +1,2 @@
+use extract to overwrite the global variable user
+or use array to cause miscomparison
